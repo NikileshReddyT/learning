@@ -207,3 +207,12 @@ li:focus{
 } 
 
 
+@media screen and (max-width:490px) {
+    .text{
+        position: absolute;
+        top: 90px;
+        left: 50%;
+        transform: translate(-45%, 0%);
+    }
+    
+}
